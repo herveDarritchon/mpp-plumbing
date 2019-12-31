@@ -1,0 +1,6 @@
+framework module kaharactrLibrary {
+    umbrella header "kaharactrLibrary.h"
+
+    export *
+    module * { export * }
+}

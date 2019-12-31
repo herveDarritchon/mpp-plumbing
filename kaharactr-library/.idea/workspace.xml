@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa853608-8d40-41ef-9c87-e90de6f0fd16" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kaharactr-library" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kaharactr-library" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kaharactr-library" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kaharactr-library" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="publishing" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="KonanWorkspace" KOTLIN_NATIVE_HOME="$USER_HOME$/.konan/kotlin-native-macos-1.3.61">
+    <executables>
+      <executable TARGET_TYPE="macos_x64" TARGET="macos" BINARY="test">
+        <target DEBUG="true" FILE="build/bin/macos/debugTest/test.kexe" GRADLE_TASK=":linkDebugTestMacos" />
+      </executable>
+    </executables>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VAiaYPnZwRmrZWy51ENaWt7bJO" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/commonTest/kotlin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/jvmTest/kotlin" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="options.lastSelected" value="org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="fr.hervedarritchon.products.kaharactr" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="fr.hervedarritchon.products.kaharactr" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/jvmTest/kotlin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.kaharactr-library [jvmTest]">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="macos.test" type="GradleKonanAppRunConfiguration" factoryName="Application" TARGET_TYPE="macos_x64" TARGET="macos" BINARY="test" WORKING_DIR="">
+      <method v="2">
+        <option name="com.jetbrains.konan.IdeaKonanBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kaharactr-library [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--console=plain" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="kaharactr-library [jvmTest]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--debug" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+            <option value="jvmTest" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="kaharactr-library [packForXcode]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="packForXcode" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="kaharactr-library [publishToMavenLocal] (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="publishToMavenLocal" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="kaharactr-library [publishToMavenLocal]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+            <option value="publishToMavenLocal" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.kaharactr-library [jvmTest]" />
+      <item itemvalue="Gradle.kaharactr-library [publishToMavenLocal]" />
+      <item itemvalue="Gradle.kaharactr-library [build]" />
+      <item itemvalue="Gradle.kaharactr-library [publishToMavenLocal] (1)" />
+      <item itemvalue="Gradle.kaharactr-library [packForXcode]" />
+      <item itemvalue="Kotlin/Native Application.macos.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.kaharactr-library [jvmTest]" />
+        <item itemvalue="Gradle.kaharactr-library [build]" />
+        <item itemvalue="Gradle.kaharactr-library [packForXcode]" />
+        <item itemvalue="Gradle.kaharactr-library [publishToMavenLocal] (1)" />
+        <item itemvalue="Gradle.kaharactr-library [publishToMavenLocal]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa853608-8d40-41ef-9c87-e90de6f0fd16" name="Default Changelist" comment="" />
+      <created>1576702363361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576702363361</updated>
+      <workItem from="1576702366531" duration="1116000" />
+      <workItem from="1576703515945" duration="6194000" />
+      <workItem from="1577015104950" duration="3142000" />
+      <workItem from="1577046725749" duration="1580000" />
+      <workItem from="1577102537147" duration="3021000" />
+      <workItem from="1577708364121" duration="5556000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="968" y="519" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577730504106">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state x="968" y="519" key="#com.intellij.execution.impl.EditConfigurationsDialog/795.1715.1680.1027/0.23.3008.1669@0.23.3008.1669" timestamp="1577730504106" />
+    <state x="1153" y="517" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1576709352008">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state x="1153" y="517" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/795.1715.1680.1027/0.23.3008.1669@0.23.3008.1669" timestamp="1576709352008" />
+    <state x="1190" y="784" width="638" height="146" key="GitCloneDialog" timestamp="1577734183382">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state x="1190" y="784" width="638" height="146" key="GitCloneDialog/795.1715.1680.1027/0.23.3008.1669@0.23.3008.1669" timestamp="1577734183382" />
+    <state width="2966" height="592" key="GridCell.Tab.0.bottom" timestamp="1577730820634">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state width="2694" height="592" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1577379245886" />
+    <state width="2966" height="592" key="GridCell.Tab.0.bottom/795.1715.1680.1027/0.23.3008.1669@0.23.3008.1669" timestamp="1577730820634" />
+    <state width="2966" height="592" key="GridCell.Tab.0.center" timestamp="1577730820633">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state width="2694" height="592" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1577379245886" />
+    <state width="2966" height="592" key="GridCell.Tab.0.center/795.1715.1680.1027/0.23.3008.1669@0.23.3008.1669" timestamp="1577730820633" />
+    <state width="2966" height="592" key="GridCell.Tab.0.left" timestamp="1577730820632">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state width="2694" height="592" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1577379245885" />
+    <state width="2966" height="592" key="GridCell.Tab.0.left/795.1715.1680.1027/0.23.3008.1669@0.23.3008.1669" timestamp="1577730820632" />
+    <state width="2966" height="592" key="GridCell.Tab.0.right" timestamp="1577730820634">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state width="2694" height="592" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1577379245886" />
+    <state width="2966" height="592" key="GridCell.Tab.0.right/795.1715.1680.1027/0.23.3008.1669@0.23.3008.1669" timestamp="1577730820634" />
+    <state width="2966" height="592" key="GridCell.Tab.1.bottom" timestamp="1577730820635">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state width="2694" height="592" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1577379245888" />
+    <state width="2966" height="592" key="GridCell.Tab.1.bottom/795.1715.1680.1027/0.23.3008.1669@0.23.3008.1669" timestamp="1577730820635" />
+    <state width="2966" height="592" key="GridCell.Tab.1.center" timestamp="1577730820635">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state width="2694" height="592" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1577379245887" />
+    <state width="2966" height="592" key="GridCell.Tab.1.center/795.1715.1680.1027/0.23.3008.1669@0.23.3008.1669" timestamp="1577730820635" />
+    <state width="2966" height="592" key="GridCell.Tab.1.left" timestamp="1577730820634">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state width="2694" height="592" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1577379245887" />
+    <state width="2966" height="592" key="GridCell.Tab.1.left/795.1715.1680.1027/0.23.3008.1669@0.23.3008.1669" timestamp="1577730820634" />
+    <state width="2966" height="592" key="GridCell.Tab.1.right" timestamp="1577730820635">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state width="2694" height="592" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1577379245888" />
+    <state width="2966" height="592" key="GridCell.Tab.1.right/795.1715.1680.1027/0.23.3008.1669@0.23.3008.1669" timestamp="1577730820635" />
+    <state x="1043" y="496" key="SettingsEditor" timestamp="1577046386156">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state x="1043" y="496" key="SettingsEditor/795.1715.1680.1027/0.23.3008.1669@0.23.3008.1669" timestamp="1577046386156" />
+    <state x="1306" y="642" key="chooseDestDirectoryDialog" timestamp="1576704645782">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state x="1306" y="642" key="chooseDestDirectoryDialog/795.1715.1680.1027/0.23.3008.1669@0.23.3008.1669" timestamp="1576704645782" />
+    <state x="1168" y="690" key="com.intellij.ide.util.TipDialog" timestamp="1577708365000">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state x="559" y="373" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1577017761320" />
+    <state x="1168" y="690" key="com.intellij.ide.util.TipDialog/795.1715.1680.1027/0.23.3008.1669@0.23.3008.1669" timestamp="1577708365000" />
+    <state x="1104" y="758" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1576704543638">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state x="1104" y="758" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/795.1715.1680.1027/0.23.3008.1669@0.23.3008.1669" timestamp="1576704543638" />
+    <state x="1162" y="479" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577728673236">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state x="1162" y="479" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/795.1715.1680.1027/0.23.3008.1669@0.23.3008.1669" timestamp="1577728673236" />
+    <state x="631" y="621" width="656" height="472" key="find.popup" timestamp="1577046030784">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state x="631" y="621" width="656" height="472" key="find.popup/795.1715.1680.1027/0.23.3008.1669@0.23.3008.1669" timestamp="1577046030784" />
+    <state x="1215" y="591" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1576704575256">
+      <screen x="0" y="23" width="3008" height="1669" />
+    </state>
+    <state x="1215" y="591" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/795.1715.1680.1027/0.23.3008.1669@0.23.3008.1669" timestamp="1576704575256" />
+  </component>
+</project>

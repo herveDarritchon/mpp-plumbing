@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kaharactr webapp</title>
+    <!-- dependency librairies, orders matters. kotlin.js first -->
+    <script type="text/javascript" src="libraries/kotlin.js"></script>
+    <script type="text/javascript" src="libraries/kaharactr-library.js"></script>
+</head>
+<body>
+<h1 id="kotlin_mpp_message">
+    Hello multi-platform workshopers from Kotlinconf 2019!
+</h1>
+<script type="text/javascript">
+    document.getElementById('kotlin_mpp_message').innerText =
+        this['kaharactr-library'].fr.hervedarritchon.products.kaharactr.sayHelloKotlinConf()
+</script>
+</body>
+</html>
